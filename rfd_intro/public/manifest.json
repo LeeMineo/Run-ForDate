@@ -1,0 +1,9 @@
+{
+    "name": "Run For Date",
+    "short_name": "RFD",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  
